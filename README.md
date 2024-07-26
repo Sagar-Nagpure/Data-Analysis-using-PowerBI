@@ -1,6 +1,6 @@
-Excited to share my latest Data Analysis project!
+• Excited to share my latest Data Analysis project!
 
-Objective:To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+• Objective: To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 Here's how I approached the project:
 
@@ -12,7 +12,7 @@ Here's how I approached the project:
 
 4. Actionable Insights and Recommendations: The end goal was to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-Tools used: Power BI for data visualization, making it easier to understand and act on the data.
+• Tools used: Power BI for data visualization, making it easier to understand and act on the data.
 
 This project is a perfect example of how data analysis can be used to drive business success by providing a clear picture of past performance and predicting future trends.
 
