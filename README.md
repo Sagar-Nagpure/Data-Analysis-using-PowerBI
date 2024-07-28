@@ -17,3 +17,9 @@ Here's how I approached the project:
 This project is a perfect example of how data analysis can be used to drive business success by providing a clear picture of past performance and predicting future trends.
 
 Thank you for reading! Feel free to connect with me to discuss more about data analysis and how it can benefit your business
+
+• Here are the Images of the dashboards :-
+
+![Dashboard-01](https://github.com/user-attachments/assets/d08e1e9f-44db-4e0c-a518-782f9daeea4e)
+
+![Dashboard-02](https://github.com/user-attachments/assets/91dd91ae-e5a3-4b46-9061-a15148542adc)
