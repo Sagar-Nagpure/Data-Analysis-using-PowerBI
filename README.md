@@ -21,7 +21,9 @@ Thank you for reading! Feel free to connect with me to discuss more about data a
 • Here are the Images of the dashboards :-
 
 1) Dashboard No.01 :-
+
 ![Dashboard-01](https://github.com/user-attachments/assets/d08e1e9f-44db-4e0c-a518-782f9daeea4e)
 
 2) Dashboard No.02 :-
+
 ![Dashboard-02](https://github.com/user-attachments/assets/91dd91ae-e5a3-4b46-9061-a15148542adc)
